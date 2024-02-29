@@ -3,13 +3,13 @@
 ## Tech Stack
 britkern/rhythmic-grids is built on the following main stack:
 
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Lua](http://www.lua.org/) – Languages
+- [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [NGINX](http://nginx.org) – Web Servers
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
-- [Lua](http://www.lua.org/) – Languages
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -20,13 +20,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 britkern/rhythmic-grids is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png' alt='Lua'/> [Lua](http://www.lua.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg' alt='MATLAB'/> [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg' alt='MATLAB'/> [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png' alt='Lua'/> [Lua](http://www.lua.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [britkern/rhythmic-grids](https://github.com/britkern/rhythmic-grids)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|01/05/24 <br/>Report generated|
+|26<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
